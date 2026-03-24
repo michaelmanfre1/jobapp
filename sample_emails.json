@@ -1,0 +1,26 @@
+[
+  {
+    "sender": "jobs@acme.com",
+    "subject": "Thank you for applying",
+    "body": "We have received your application for Software Engineer. We may ask for additional information.",
+    "date": "2026-03-23T10:00:00+00:00",
+    "company": "Acme",
+    "role": "Software Engineer"
+  },
+  {
+    "sender": "talent@globex.com",
+    "subject": "Interview invitation",
+    "body": "We would like to schedule a screen. Please provide your availability and sponsorship details.",
+    "date": "2026-03-24T08:30:00+00:00",
+    "company": "Globex",
+    "role": "Backend Engineer"
+  },
+  {
+    "sender": "recruiting@initech.com",
+    "subject": "Update on your candidacy",
+    "body": "We regret to inform you that we decided to move forward with other candidates.",
+    "date": "2026-03-21T12:15:00+00:00",
+    "company": "Initech",
+    "role": "Platform Engineer"
+  }
+]
